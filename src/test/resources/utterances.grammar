@@ -1,0 +1,15 @@
+Invocation: testskill
+
+AMAZON.StopIntent:
+AMAZON.CancelIntent:
+AMAZON.FallbackIntent:
+AMAZON.RepeatIntent:
+AMAZON.NavigateHomeIntent:
+AMAZON.YesIntent: klar
+ja
+natürlich
+sofort
+AMAZON.NoIntent: auf keinen Fall
+AMAZON.HelpIntent:
+
+testintent: Wer {bin|bist|ist|sind|seid} {ich|du|er|sie|es|wir|ihr|sie}?

@@ -1,0 +1,82 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.StopIntent"
+        },
+        {
+          "name": "AMAZON.CancelIntent"
+        },
+        {
+          "name": "AMAZON.FallbackIntent"
+        },
+        {
+          "name": "AMAZON.RepeatIntent"
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent"
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": [
+            "klar",
+            "ja",
+            "natürlich",
+            "sofort"
+          ]
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": [
+            "auf keinen Fall"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent"
+        },
+        {
+          "name": "testintent",
+          "samples": [
+            "Wer bin ich?",
+            "Wer bin du?",
+            "Wer bin er?",
+            "Wer bin sie?",
+            "Wer bin es?",
+            "Wer bin wir?",
+            "Wer bin ihr?",
+            "Wer bist ich?",
+            "Wer bist du?",
+            "Wer bist er?",
+            "Wer bist sie?",
+            "Wer bist es?",
+            "Wer bist wir?",
+            "Wer bist ihr?",
+            "Wer ist ich?",
+            "Wer ist du?",
+            "Wer ist er?",
+            "Wer ist sie?",
+            "Wer ist es?",
+            "Wer ist wir?",
+            "Wer ist ihr?",
+            "Wer sind ich?",
+            "Wer sind du?",
+            "Wer sind er?",
+            "Wer sind sie?",
+            "Wer sind es?",
+            "Wer sind wir?",
+            "Wer sind ihr?",
+            "Wer seid ich?",
+            "Wer seid du?",
+            "Wer seid er?",
+            "Wer seid sie?",
+            "Wer seid es?",
+            "Wer seid wir?",
+            "Wer seid ihr?"
+          ]
+        }
+      ],
+      "invocationName": "testskill"
+    }
+  }
+}
